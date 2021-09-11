@@ -32,9 +32,13 @@ public class MasSum {
 //            System.out.println(i);
 //        }
 
-        int n;
-        for (int i = 1;)
-
+        //5
+//        float x = 1;
+//        for (float i = 1; i <= 10; i++) {
+//            x =x + 1/i;
+//            System.out.printf("number is %.5f \n" , x);
+//        }
+//        System.out.printf("final answer is %.2f", x);
     }
 
 }

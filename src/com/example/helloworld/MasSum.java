@@ -39,6 +39,7 @@ public class MasSum {
 //            System.out.printf("number is %.5f \n" , x);
 //        }
 //        System.out.printf("final answer is %.2f", x);
+
     }
 
 }
